@@ -1,0 +1,96 @@
+.btn{
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    background-color: #F5DDC4;
+    border-radius: 31.5px;
+    margin-top: 15px;
+}
+
+.btn img{
+    border-radius: 50%;
+    height: 43px;
+    width: 59px;
+    margin-right: 5px;
+}
+
+.btn p{
+    margin-left: 10px;
+}
+
+.fc-bio{
+    display: flex;
+    gap: 10px;
+}
+
+.bio-container-1{
+    display: flex;
+}
+
+.bio-container-1i{
+    margin-top: 290px;
+}
+
+.bio-heading{
+    font-size: 70px;
+    font-weight: 770px;
+    line-height: 130%;
+}
+
+.bio-heading span{
+    color: var(--primary-color);
+    margin-top: 10px;
+}
+
+.order{
+    display: flex;
+    gap: 20px;
+}
+
+.o-btn{
+    background-image: linear-gradient(180deg, #EFAB68 0%, #F48E28 100%);
+    width: 10%;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+
+.o-btn p{
+    margin-top: 20px;
+}
+
+.p-btn{
+    display: flex;
+    gap: 10px;
+}
+
+.p-btn img{
+    Width: 68px;
+    Height:68px;
+}
+
+.p-btn h3{
+    margin-top: 25px;
+}
+
+.food-card{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 42px 75px;
+}
+
+.fcard{
+    text-align: center;
+    background-color: var(--card-color);
+    width: 145%;
+    border-radius: 15px;
+}
+
+.fcard span{
+    color: var(--primary-color);
+}
+
+.fcard img{
+    height: 115px;
+    width: 115px;
+}

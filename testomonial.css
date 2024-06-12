@@ -1,0 +1,31 @@
+.testomonial1i{
+    text-align: center;
+    width: 30%;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-left: 50px;
+    padding: 20px;
+}
+
+.porichoy{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+.porichoy img{
+    height: 50px;
+    margin-top: 22px;
+    margin-left: 150px;
+}
+
+.arr{
+    width: 100%;
+    margin-right: 55px;
+}
+
+.testomonial-card{
+    display: flex;
+    gap: 30px;
+    height: 75px;
+}

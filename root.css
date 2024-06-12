@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --primary-color: #F48E28 ;
+    --primary-font-color: #0000;
+    --card-color: white;
+}
+
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(243, 243, 243);
+}

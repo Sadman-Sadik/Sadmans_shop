@@ -1,0 +1,48 @@
+.subscribe-div{
+    background-color: black;
+    color: white;
+    margin-top: 575px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+    margin-left: 65px;
+}
+
+.subscribe-div img{
+    margin-left: 95px;
+}
+
+.subscribe-info{
+    margin-top: 75px;
+    width: 30%;
+    margin-right: 90px;
+}
+
+.subscribe-btn{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding: 8px;
+}
+
+.subscribe-btn p{
+    color:  rgba(182, 182, 182, 1);
+}
+
+.subscribe-btn button{
+    border-radius: 20px;
+    background-color: var(--primary-color);
+    border: none;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
+
+.Contact img{
+    height: 40px;
+}

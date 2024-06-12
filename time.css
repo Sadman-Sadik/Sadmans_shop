@@ -1,0 +1,21 @@
+.time1{
+    text-align: center;
+    margin-top: 45px;
+    border-right: 1px solid gray;
+    padding-right: 215px;
+}
+
+.icon{
+    background-color: var(--primary-color);
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+}
+
+.time-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 15px;
+}

@@ -1,0 +1,66 @@
+@media screen and (min-width: 200px)and (max-width: 576px){
+    .btn{
+        width: 50% ;
+    }
+    .bio1{
+        flex-direction: column;
+    }
+
+    .food-card{
+        grid-template-columns: repeat(1 , 1fr);
+    }
+    .time-info{
+        background-color: rgb(243, 243, 243);
+        flex-direction: column;
+    }
+    .c-btn{
+        flex-direction: column;
+    }
+
+    .card-heading{
+        flex-direction: column;
+    }
+    .mp-btn button{
+        margin-left: 150px;
+    }
+
+    .service-card{
+        flex-direction: column;
+    }
+
+    .scard{
+        width: 100%;
+    }
+
+    .footer{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .porichoy{
+        flex-direction: column;
+    }
+    .porichoy img{
+        height: 100px;
+        margin-top: 22px;
+        margin-left: 150px;
+    }
+
+    .testomonial-card{
+        flex-direction: column;
+    }
+
+    .subscribe-div{
+        margin-top: 775px;
+        flex-direction: column;
+    }
+
+    .subscribe-info{
+        width: 100%;
+    }
+
+    .burger img{
+        height: 150px;
+        width: 150px;
+    }
+}
